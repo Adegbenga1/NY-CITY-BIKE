@@ -10,10 +10,14 @@ It also creates Visualizations for the Trip Analysis,story and report for Presen
 
 ## Results
 1. Check out time for users are 40min and 59min  for male and female riders respectively
+
 2. Trips by wekday/hr indicated consistent starttime between 6am and 9am on weekdays(Monday -Friday)
+
 3. Weekends (DSaturday and Sunday) are usually with high volumes of tripdurations from 10am to 9pm.
+
 4. Trips by Gender on weekday are consistent with observations 1 & 2 , with male riders having more significant values 
     compared to female riders
+
 7. User trips by Gender indicated male subscriberss with higher values on  Monday through Tuesday and Thursday 
     through Friday. This is significantly higher compared to female riders .
     
@@ -27,5 +31,7 @@ It also creates Visualizations for the Trip Analysis,story and report for Presen
 
 ## Summary
   1.Analysis showed that subscribers uses bike more than regular customers and there are more riders during the weekend that weekdays
+  
   2. Male subscribers uses bikes more than female subscribers on weekdays around 
+  
   3. Male riders uses bike more than female riders.
