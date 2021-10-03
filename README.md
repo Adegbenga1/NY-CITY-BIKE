@@ -9,7 +9,7 @@ This analysis reviewed the following details
 It also creates Visualizations for the Trip Analysis,story and report for Presentation
 
 ## Results
-1. Check out time for users are 40min and 59min  for male and female riders respectively
+1. Check-out time for users are 40min and 59min  for male and female riders respectively
 
 2. Trips by wekday/hr indicated consistent starttime between 6am and 9am on weekdays(Monday -Friday)
 
