@@ -1,4 +1,4 @@
-# NY-CITY-BIKE
+# NYC-CITY-BIKE
 
 ## Overview 
 Analysis to support the business proposal that shows that the bike-sharing program in Des Moines is solid and profitable .
