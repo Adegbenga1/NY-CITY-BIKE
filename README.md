@@ -35,3 +35,4 @@ It also creates Visualizations for the Trip Analysis,story and report for Presen
   2. Male subscribers uses bikes more than female subscribers on weekdays around 
   
   3. Male riders uses bike more than female riders.
+  
