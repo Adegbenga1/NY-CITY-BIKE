@@ -39,4 +39,4 @@ Tableau links : https://public.tableau.com/app/profile/adegbenga.olusoji.ayoola/
 
 ## Conclusion :
 In view of the  large numbers of riders observed in this analysis, the bike-sharing program 
-in Des Moines is a solid business.
+in Des Moines is a solid business..
