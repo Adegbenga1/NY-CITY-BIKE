@@ -30,6 +30,9 @@ Tableau links : https://public.tableau.com/app/profile/adegbenga.olusoji.ayoola/
 
 ##  SUMMARY
 1.Analysis showed that male subscribers ride more in weekdays than the female counterparts.
+
 2. Regular cutomers and very low in numbers at all times and weekdays compared to subscribers 
+
 3. The total trip duration is about an hour and it usually happens with high volume at 7am -9am and  5pm - 7pm on weekdays 
+
 4. High trip durations during weekend happens between 9am-7pm on Saturdays-An indication that more riders will always be available on weekends 
