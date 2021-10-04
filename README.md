@@ -38,5 +38,5 @@ Tableau links : https://public.tableau.com/app/profile/adegbenga.olusoji.ayoola/
 4. High trip durations during weekend happens between 9am-7pm on Saturdays-An indication that more riders will always be available on weekends 
 
 ## Conclusion :
-With th large numbers of riders observed in this analysis, the bike-sharing program 
+In view of the  large numbers of riders observed in this analysis, the bike-sharing program 
 in Des Moines is a solid business.
